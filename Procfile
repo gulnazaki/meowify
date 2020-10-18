@@ -1,1 +1,1 @@
-web: gunicorn meowify:app --log-file -
+web: gunicorn app:app

@@ -3,9 +3,9 @@ gunicorn==20.0.4
 regex==2020.5.14
 youtube-dl==2020.9.20
 spleeter==2.0
-ffmpeg-python==0.2.0
 crepe==0.0.11
 ddsp==0.13.1
+gin-config==0.3.0
 tensorflow==2.3.0
 google-colab==1.0.0
 scipy==1.4.1
