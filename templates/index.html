@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title> {{ title }}</title>
+{% endblock %}
+
+
+{% block body %}
+<div class="container">
+    <div class="row">
+      <form action="/" method="POST">
+        <div class="col s12">
+          <div class="card z-depth-0">
+            <div class="card-content">
+              <span class="card-title">
+                <div class="animated bounce">
+                  <h4>{{ title }}</h4>
+                </div>
+              </span>
+              <div class="row">
+                <div class="input-field col s12 m10">
+                  <input id="url" type="text" name="url" value="{{request.form.url}}">
+                  <label for="text">Enter a Youtube URL</label>
+                </div>
+                </div>
+
+              </div>
+            </div>
+      </form>
+      </div>
+      </div>
+    </div>
+
+  <img class="center" src="{{ img }}">
+  </div>
+
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/js/materialize.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('select').material_select();
+    });
+  </script>
+{% endblock %}
