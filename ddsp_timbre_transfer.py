@@ -129,6 +129,7 @@ def tranfer(audio, model_dir, sample_rate = DEFAULT_SAMPLE_RATE):
 	threshold = 1
 	ADJUST = True
 	quiet = 20
+	autotune = 0
 	pitch_shift =  -1
 	loudness_shift = 3
 
