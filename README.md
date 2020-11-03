@@ -1,5 +1,6 @@
 # Meowify
-Turn vocals from any youtube song to meows! Developed for [HAMR 2020](https://www.ismir2020.net/hamr/) in 48 hours.
+Turn vocals from any youtube song to meows!<br>
+The project was developed for [HAMR 2020](https://www.ismir2020.net/hamr/) in 48 hours and received the **Best Hack/Research Direction** award.
 
 ## About
 This is an initial release using the Flask microframework. Eventually, I aim to deploy it on [heroku](www.heroku.com).
