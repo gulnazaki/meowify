@@ -13,6 +13,8 @@ for local use and Deezer for providing [Spleeter](https://github.com/deezer/sple
 
 Here is an example for ["Dumb" by Nirvana](https://www.youtube.com/watch?v=8xiwuumLkOQ)
 
+![alt text](https://github.com/gulnazaki/meowify/blob/main/index.png?raw=true)
+
 ## Installation
 ```
 git clone https://github.com/gulnazaki/meowify.git
