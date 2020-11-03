@@ -2,6 +2,8 @@
 Turn vocals from any youtube song to meows!<br>
 The project was developed for [HAMR 2020](https://www.ismir2020.net/hamr/) in 48 hours and received the **Best Hack/Research Direction** award.
 
+![alt text](https://github.com/gulnazaki/meowify/blob/main/index.png?raw=true)
+
 ## About
 This is an initial release using the Flask microframework. Eventually, I aim to deploy it on [heroku](www.heroku.com).
 
@@ -12,8 +14,6 @@ DISCLAIMER: Thanks and credits to Magenta for providing [DDSP](https://github.co
 for local use and Deezer for providing [Spleeter](https://github.com/deezer/spleeter).
 
 Here is an example for ["Dumb" by Nirvana](https://www.youtube.com/watch?v=8xiwuumLkOQ)
-
-![alt text](https://github.com/gulnazaki/meowify/blob/main/index.png?raw=true)
 
 ## Installation
 ```
