@@ -5,7 +5,7 @@ The project was developed for [HAMR 2020](https://www.ismir2020.net/hamr/) in 48
 ![alt text](https://github.com/gulnazaki/meowify/blob/main/index.png?raw=true)
 
 ## About
-This is an initial release using the Flask microframework. Eventually, I aim to deploy it on [heroku](www.heroku.com).
+This is an initial release using the Flask microframework. Eventually, I aim to deploy it on [heroku](https://www.heroku.com).
 
 I wouldn't recommend running it without cuda, since ` ddsp.training.metrics.compute_audio_features` will take too long,
 especially for long tracks.
