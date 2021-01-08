@@ -7,7 +7,6 @@ crepe==0.0.11
 ddsp==0.13.1
 gin-config==0.3.0
 tensorflow==2.3.0
-google-colab==1.0.0
 scipy==1.4.1
 numpy==1.19.2
 librosa==0.8.0
